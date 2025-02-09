@@ -1,0 +1,16 @@
+.el-link{
+    &:hover {
+        background-color: transparent;
+        /* 确保悬停时不改变背景颜色 */
+        color: #409EFF;
+        /* 改变文字颜色 */
+        //text-decoration: underline; /* 添加下划线 */
+    }
+}
+.common-layout {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
