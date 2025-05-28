@@ -1,6 +1,7 @@
 # bookstore_client
 
 This template should help get you started developing with Vue 3 in Vite.
+基于SpringBoot+vue的图书销售系统，SpringBoot：2.7.4，前后端分离，具有管理员，用户和商家三种角色
 
 ## Recommended IDE Setup
 
